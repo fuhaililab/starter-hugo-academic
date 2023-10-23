@@ -1,5 +1,5 @@
 ---
-title: Hello, ML world!
+title: Hello, AI world! -_-
 subtitle: Welcome 👋 .
 
 # Summary for listings and search engines
