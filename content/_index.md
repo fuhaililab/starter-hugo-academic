@@ -230,15 +230,15 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        If you are interested joining the lab or about our research projects, please follow up vai email.
-      # Contact (add or remove contact options as necessary)
-      email: Fuhai.Li@Wustl.edu
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: |-
+  #       If you are interested joining the lab or about our research projects, please follow up vai email.
+  #     # Contact (add or remove contact options as necessary)
+  #     email: Fuhai.Li@Wustl.edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
