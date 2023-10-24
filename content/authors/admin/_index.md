@@ -119,12 +119,12 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**Fuhai Li's Lab**<br>
+**Fuhai Li's Lab** 
 Fuhai Li, PhD, is an assistant professor of pediatrics and institute for informatics (I2).
 Dr. Fuhai Li’s research interest is the development and applications of network/graph-based computational and artificial intelligence (AI) models to analyze the big data of pharmacogenomics in the biomedical research field. These computational models, combing with experimental validations, can predict and rank theraputic targets, drugs and drug combinations for treating complex diseases, in a fast and cost-effecitve manner. <br>
-**We are recruting**<br>
+
+**We are recruting. Email me anytime: Fuhai.Li@wustl.edu** <br>
 We have multiple resarch assistant positions for Master or PhD students. The expected project is to develop and apply AI models for precision medicine by integrating and interpreting big data of biomedical datasets. <br>
-**Email me anytime: Fuhai.Li@wustl.edu** 
 
 **My research: Big data + Graph-AI modeling + Omics Data = Precision Medicion**<br>
 There is no effective and curable medication for many complex diseases, like cancer, alzheimer’s disease (AD), COVID-19, longevity, and many other diseases. Large-scale (big data), multi-omics/multi-modality, tissue-level and single-cell level omics data of complex diseases have been generated to understand pathogenesis, identify novel therapeutic targets, and develop effective drugs/cocktails. However, it remains an open problem. My lab aim to develop novel graph-AI models to integrate and interpret the large-scale data for signaling network biomarker, drug and drug combination prediction. Moreover, we developed AI models to analyze video, EEG and vital sign data, to predict and detect the seizure and mortality of preterms in neonatal intensive care unit (NICU), which remain exceptional burdens of extremely preterm birth.
