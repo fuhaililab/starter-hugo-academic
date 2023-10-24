@@ -1,5 +1,5 @@
 ---
-title: Please check our google scholar page
+# title: Please check our google scholar page
 
 # ["Google Scholar"](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
 # authors:
@@ -62,24 +62,6 @@ title: Please check our google scholar page
 # #   Otherwise, set `slides: ""`.
 # slides: example
 
-title: "Coming soon - 02"
-authors:
-- admin
-date: "2023-01-07T00:00:00Z"
-doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
 ---
 
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
