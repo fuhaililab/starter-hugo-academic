@@ -201,16 +201,19 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        ['Please check our publications'](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
+
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+    # design:
+    #   columns: '2'
+    #   view: citation
   # - block: collection
   #   id: talks
   #   content:
