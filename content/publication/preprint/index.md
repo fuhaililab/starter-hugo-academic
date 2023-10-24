@@ -1,17 +1,17 @@
 ---
-title: "Coming soon"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+title: ["Google Scholar"](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
+# authors:
+# - admin
+# date: "2019-04-07T00:00:00Z"
+# doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# # Schedule page publish date (NOT publication's date).
+# publishDate: "2017-01-01T00:00:00Z"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# # Publication type.
+# # Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# # Enter a publication type from the CSL standard.
+# publication_types: ["article"]
 
 # # Publication name and optional abbreviated publication name.
 # publication: ""
