@@ -202,7 +202,7 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        ['Please check our publications'](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
+        Click here: [Full List of Publications](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
 
       # text: |-
       #   {{% callout note %}}
