@@ -1,7 +1,7 @@
 ---
 title: Please check our google scholar page
 
-["Google Scholar"](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
+# ["Google Scholar"](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
 # authors:
 # - admin
 # date: "2019-04-07T00:00:00Z"
