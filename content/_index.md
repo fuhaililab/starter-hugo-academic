@@ -155,6 +155,14 @@ sections:
     id: projects
     content:
       title: Researh Projects
+      text: |-
+        **AI modeling + omics = Precision medicine** <br>
+        We have multiple projects: <br> 
+        p1: Targeting AD neuroinflammation <br>
+        p2: Multi-omics, multi-scale modeling analyzing multi-omics datasets: M3NetFlow <br>
+        p3: Disease Niche Signaling Interactions using single cell omics data <br> 
+        p4: Software Tool: DiseaseNicheNet <br>
+        More details of projects will be available soon ...
       filters:
         folders:
           - project
@@ -186,7 +194,16 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
+  - block: markdown
+    id: team1
+    content:
+      title: Our Team
+      subtitle: ''
+      text: |-
+        Team Information is coming soon.
+    design:
+      columns: '2'
+# - block: collection
   #   id: featured
   #   content:
   #     title: Featured Publications
@@ -202,7 +219,12 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        Click here: [Full List of Publications](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate)
+        Click here: [Full List of Publications](https://scholar.google.com/citations?hl=en&user=rVZfU9sAAAAJ&view_op=list_works&sortby=pubdate) <br>
+    
+        p1: Targeting AD neuroinflammation <br>
+        p2: Multi-omics, multi-scale modeling analyzing multi-omics datasets: M3NetFlow <br>
+        p3: Disease Niche Signaling Interactions using single cell omics data <br> 
+        p4: Software Tool: DiseaseNicheNet
 
       # text: |-
       #   {{% callout note %}}

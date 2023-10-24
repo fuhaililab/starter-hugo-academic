@@ -1,5 +1,5 @@
 ---
-title: Coming Soon!
+# title: Coming Soon!
 
 # summary: An example of using the in-built project page.
 # tags:
